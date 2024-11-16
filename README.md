@@ -1,4 +1,4 @@
-# CRAN Package Download App
+# CRAN Package Usage App
 
 This Shiny app provides an interactive way to explore CRAN package
 downloads. You can view detailed download information for any CRAN
